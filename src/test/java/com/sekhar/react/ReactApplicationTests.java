@@ -1,4 +1,4 @@
-package com.djamware.react;
+package com.sekhar.react;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

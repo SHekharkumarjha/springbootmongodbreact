@@ -1,4 +1,4 @@
-package com.djamware.react;
+package com.sekhar.react;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
